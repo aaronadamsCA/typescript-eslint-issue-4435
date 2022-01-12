@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "jsx": "preserve",
+    "paths": {
+      "@shopnishe/components": ["./packages/components/src"]
+    }
+  }
+}
